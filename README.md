@@ -11,5 +11,3 @@
 sorry
 hello
 world
-
-结果我迟到了
